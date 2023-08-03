@@ -1,6 +1,6 @@
 #!/bin/bash
 Action="Create"
-#Actionn=${Action}
+#Action=${Action}
 if [ $Action == "Create" ]
 then
 i=0
